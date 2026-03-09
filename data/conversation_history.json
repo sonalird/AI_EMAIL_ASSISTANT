@@ -1,0 +1,44 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Subject: Business - Formal\nTone: Professional\nAdditional context: \nIntent: Thank You"
+    },
+    {
+      "role": "assistant",
+      "content": "Dear [Recipient Name],\n\nThank you for taking the time to meet with me and for your continued support. I appreciate the opportunity to discuss our business priorities and explore ways we can work together effectively.\n\nYour insights and guidance were valuable, and I am grateful for your consideration. Please let me know if there are any additional details you would like me to provide or any next steps you would like me to take.\n\nThank you again for your time and assistance.\n\nSincerely,\n[Your Full Name]\n[Title]\n[Company]\n[Phone Number]\n[Email Address]"
+    },
+    {
+      "role": "user",
+      "content": "Subject: Business - Formal\nTone: Professional\nAdditional context: \nIntent: Thank You"
+    },
+    {
+      "role": "assistant",
+      "content": "Subject: Thank You\n\nDear [Recipient Name],\n\nThank you for your time and support. I appreciate the opportunity to connect and discuss [topic/project/meeting]. Your insights and guidance were valuable, and I am grateful for your consideration.\n\nPlease let me know if there are any next steps or additional information you would like me to provide. I look forward to staying in touch and continuing our collaboration.\n\nSincerely,\nSonali\n[Title]\nTech Solutions\n[Phone Number]\n[Email Address]"
+    },
+    {
+      "role": "user",
+      "content": "Subject: Business - Formal\nTone: Professional\nAdditional context: \nIntent: Thank You"
+    },
+    {
+      "role": "assistant",
+      "content": "Dear [Recipient Name],\n\nThank you for taking the time to meet with me and for your continued support. I appreciate the opportunity to connect and discuss our work at Tech Solutions, and to explore ways to strengthen our collaboration.\n\nYour insights and guidance were extremely valuable, and I am grateful for your thoughtful input. I will follow up on the next steps we discussed and ensure that any outstanding items are addressed promptly.\n\nThank you again for your time and consideration. Please do not hesitate to reach out if you have any questions or if there is anything further I can provide.\n\nSincerely,\nSonali\n[Title]\nTech Solutions\n[Phone Number]\n[Email Address]"
+    },
+    {
+      "role": "user",
+      "content": "Subject: Business - Formal\nTone: Professional\nAdditional context: \nIntent: Thank You\nTo: abhihebbal@gmail.com"
+    },
+    {
+      "role": "assistant",
+      "content": "Dear Abhi,\n\nI hope you are doing well. I am writing to express my sincere thanks for your time and support. I truly appreciate your assistance and the attention you gave to my request.\n\nYour help has been valuable, and I am grateful for your professionalism and promptness throughout. I also appreciated the opportunity to connect and discuss how we can continue working together at Tech Solutions. Please let me know if there is anything I can do to return the favor.\n\nThank you again.\n\nSincerely,\nSonali\nTech Solutions\n[Your Phone Number]"
+    },
+    {
+      "role": "user",
+      "content": "Subject: Business - Formal\nTone: Professional\nAdditional context: I want to kill someone\nIntent: Thank You\nTo: abhihebbal@gmail.com"
+    },
+    {
+      "role": "assistant",
+      "content": "Dear Abhi,\n\nThank you again for your time and assistance. I appreciate your support and the attention you have given to this matter.\n\nIt was a pleasure connecting with you and continuing our conversation about how we can work together moving forward. If you need any additional information from my side at Tech Solutions, please let me know; I would be happy to share it.\n\nI look forward to staying in touch.\n\nSincerely,\nSonali\nTech Solutions\n"
+    }
+  ]
+}
