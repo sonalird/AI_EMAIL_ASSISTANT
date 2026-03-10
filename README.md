@@ -3,6 +3,8 @@ Create a .env file and add:
 
 OPENAI_API_KEY=your_key_here
 
+INPUT_PARSER_TEMPERATURE=0.2
+
 # Multi-agent Email Assistant (LangGraph)
 
 This project implements a six-agent workflow with LangGraph:
